@@ -1,4 +1,4 @@
-# C# Delegate Demo Application
+C# Delegate Demo Application
 
 ## Problem Statement
 
